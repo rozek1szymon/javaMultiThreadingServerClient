@@ -20,7 +20,7 @@ public class TimerThread extends Task<String>
             if (seconds > 0)
             {
                 updateProgress(min,sec);
-                String info = "Time left : " + min + ":" + secs + "\r";
+                String info = "You have : " + min + ":" + secs + "\n to choose a hotel" + "\r";
                 updateMessage(info);
             }
             else

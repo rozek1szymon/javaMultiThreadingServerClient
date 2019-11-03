@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca84bf36-84d2-4dc1-8bea-8705e68d2786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/Hotels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/TimerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/TimerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/out/production/JAVA DESKTOP PROTO/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/TimerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/TimerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA DESKTOP PROTO/src/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JDBCDemo/META-INF/JDBCDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JDBCDemo/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JDBCDemo/ServerRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBCDemo/ServerRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerRunnable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Server.java">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,10 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ServerRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="344">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,13 +58,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ServerRunnable.java">
+        <entry file="file://$PROJECT_DIR$/src/DatabaseConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="544">
+              <caret line="32" column="98" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,9 +93,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Server.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
         <option value="$PROJECT_DIR$/src/ServerRunnable.java" />
+        <option value="$PROJECT_DIR$/src/DatabaseConnection.java" />
       </list>
     </option>
   </component>
@@ -100,19 +111,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JDBCDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="JDBCDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDBCDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBCDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JDBCDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -128,6 +132,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +205,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,16 +213,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32286024" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4037199" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33260393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31960997" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40303358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -231,16 +237,22 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/ServerRunnable.java</url>
+          <line>39</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ServerRunnable.java</url>
-          <line>14</line>
+          <line>40</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DatabaseConnection.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -261,6 +273,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/JDBCDemo/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/Server.java" />
     <entry file="file://$PROJECT_DIR$/JDBCDemo.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -268,20 +281,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="51">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -290,11 +293,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ServerRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="344">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="98" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
